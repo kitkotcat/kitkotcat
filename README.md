@@ -31,7 +31,6 @@ Python and FastAPI are my additional technical background.
 - [**Web UI/UX Testing**](https://github.com/kitkotcat/web-ui-ux-testing) — functional, UI/UX, responsive and negative web testing.
 - [**API Testing with Postman**](https://github.com/kitkotcat/api-testing-postman) — REST API scenarios, JSON validation and test documentation.
 - [**Mobile Application Testing**](https://github.com/kitkotcat/mobile-app-testing) — Android testing, ADB, Logcat and defect documentation.
-- [**QA Buddy**](https://github.com/kitkotcat/qa-buddy) — QA assistant with bug reports, test cases, checklists and interview practice.
 - [**Telegram Movie Search Bot**](https://github.com/kitkotcat/A-Telegram-bot-for-searching-movies-on-Kinopoisk) — Python, SQLite and external movie API.
 
 ## Additional Technical Background
