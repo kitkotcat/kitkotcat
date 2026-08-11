@@ -28,7 +28,7 @@ Manual testing, test design, defect documentation, UI/UX checks and API validati
 
 ## Additional Skills
 
-Basic Python, JSON and SQLite.
+Basic Python, JSON and SQLite, HTML5, CSS
 
 ## Languages
 
