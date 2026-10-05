@@ -127,3 +127,5 @@ Currently developing test automation skills with **Python, Pytest and Playwright
 ## Контакты
 
 - GitHub: [@kitkotcat](https://github.com/kitkotcat)
+- Почта: peshkunkate@gmail.com
+- ТГ:  [@Lixl_lix] (https://t.me/Lixl_lix)
