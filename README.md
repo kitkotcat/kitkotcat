@@ -1,41 +1,129 @@
-# Ekaterina Peshkun
+# Екатерина Пешкун
 
-**Junior Manual QA Engineer**
+### Junior QA Engineer
 
-Web · Mobile · REST API Testing
+**Web · API · Backend Testing**
 
-Manual testing, test design, defect documentation, UI/UX checks and API validation.
+Тестирую web-приложения, REST API и backend-сценарии. На стажировочных проектах работаю с функциональным, интеграционным, smoke, regression, retest и E2E-тестированием, готовлю тестовую документацию и анализирую взаимодействие frontend ↔ backend.
 
-## Skills
+Есть практический опыт работы с локальным backend-окружением и Docker, а также базовый опыт нагрузочного тестирования: участие в выполнении сценария, сборе и анализе метрик.
 
-- Functional, smoke, regression and exploratory testing
-- Positive, negative and boundary-value testing
-- Test cases, checklists and bug reports
-- Severity and priority assessment
-- REST API testing with Postman and Swagger
-- HTTP, JSON and status-code validation
-- Chrome DevTools
-- Android Studio, ADB and Logcat
-- UI/UX and responsive testing
-- SQL basics
-- Git and GitHub
+Сейчас развиваюсь в автоматизации на **Python + Pytest + Playwright**.
 
-## Portfolio
+Рассматриваю удалённые позиции **Junior QA / QA Engineer**.
 
-- [Web UI/UX Testing](https://github.com/kitkotcat/web-ui-ux-testing)
-- [API Testing with Postman](https://github.com/kitkotcat/api-testing-postman)
-- [Mobile Application Testing](https://github.com/kitkotcat/mobile-app-testing)
+---
 
-## Additional Skills
+## Практический опыт
 
-Basic Python, JSON and SQLite, HTML5, CSS
+### Корпоративная web-платформа
 
-## Languages
+В рамках стажировки участвую в тестировании функциональности и интеграций продукта:
 
-- Russian — Native
-- English — Pre-Intermediate
+- функциональное тестирование новых возможностей;
+- **Smoke / Regression / Retest**;
+- **Integration Testing / E2E** сценарии;
+- тестирование **REST API** и backend-сценариев;
+- анализ запросов и ответов через **Chrome DevTools**;
+- работа со **Swagger / OpenAPI**;
+- подготовка **test cases, checklists и test data**;
+- построение **traceability matrix**;
+- оформление дефектов, ретест исправлений и точечный регресс затронутых областей;
+- взаимодействие с разработчиками по найденным дефектам и требованиям.
 
-## Contact
+### Web-сервис с backend-инфраструктурой
 
-- Telegram: [@Lixl_lix](https://t.me/Lixl_lix)
-- Email: [peshkunkate@gmail.com](mailto:peshkunkate@gmail.com)
+Практика тестирования и работы с тестовым окружением:
+
+- тестирование web- и backend-сценариев;
+- локальный запуск backend-сервисов;
+- работа с **Docker / Docker Compose**;
+- работа с **PostgreSQL** и анализом данных;
+- знакомство с инфраструктурой на **Redis** и **MinIO**;
+- анализ логов и диагностика проблем тестового окружения;
+- базовый опыт **нагрузочного тестирования** — участие в выполнении тестового сценария, сборе метрик и анализе результатов прогона.
+
+> В публичном профиле стажировочные проекты и внутренние сервисы намеренно обезличены.
+
+---
+
+## QA-практики
+
+`Functional Testing` · `Smoke Testing` · `Regression Testing` · `Retest` · `Integration Testing` · `E2E Testing` · `Exploratory Testing` · `Test Design`
+
+**Тестовая документация:** Test Cases · Checklists · Bug Reports · Test Data · Test Plan · Traceability Matrix
+
+---
+
+## Инструменты и технологии
+
+| Направление | Инструменты / практики |
+|---|---|
+| **Web / API** | REST API, HTTP, JSON, client-server, Postman, Swagger / OpenAPI, Chrome DevTools |
+| **Данные** | SQL, DBeaver, PostgreSQL |
+| **Процессы и документация** | SDLC / STLC, Jira, YouGile, Test Cases, Checklists, Bug Reports |
+| **Разработка и окружение** | Git, GitHub, GitLab, Docker, Docker Compose |
+| **Дополнительная практика** | Burp Suite, HTTP Toolkit, Android Studio Emulator, Redis, MinIO |
+| **Automation** | Python, Pytest — базовая практика; Playwright — изучаю |
+| **Performance** | Базовый опыт нагрузочного тестирования и анализа метрик |
+
+---
+
+## Публичные проекты
+
+### [QA Buddy](https://github.com/kitkotcat/qa-buddy)
+
+Pet-проект для практики QA и работы с web-приложением и REST API.
+
+В проекте есть:
+
+- Test Plan;
+- Test Cases;
+- Bug Reports;
+- API testing;
+- Swagger / OpenAPI;
+- проверки backend на Pytest;
+- positive / negative scenarios;
+- проверка validation и error responses.
+
+**System under test:** React + TypeScript frontend, Python + FastAPI backend.
+
+### QA Buddy Recorder — в разработке
+
+Chrome-расширение для ручного QA, которое помогает собирать технические evidence во время воспроизведения дефекта:
+
+- reproduction steps;
+- screenshots;
+- HTTP 4xx / 5xx и network errors;
+- console errors;
+- подготовка структурированного bug-report draft;
+- маскирование чувствительных данных.
+
+Репозиторий пока приватный и будет опубликован после финальной проверки.
+
+---
+
+## Сейчас изучаю
+
+Основной следующий шаг — **автоматизация тестирования на Python**:
+
+- Pytest;
+- Playwright;
+- UI automation;
+- API automation;
+- fixtures и parametrization;
+- дальнейшая интеграция автотестов с CI.
+
+---
+
+## English summary
+
+**Junior QA Engineer focused on Web, API and Backend Testing.**  
+Hands-on internship experience with functional, integration, regression and E2E testing, QA documentation, REST API and backend environments.  
+Currently developing test automation skills with **Python, Pytest and Playwright**.
+
+---
+
+## Контакты
+
+- GitHub: [@kitkotcat](https://github.com/kitkotcat)
