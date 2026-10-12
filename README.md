@@ -71,7 +71,7 @@
 ## English summary
 
 **Junior QA Engineer focused on Web, API and Backend Testing.**  
-Currently developing test automation skills with **Python, Pytest and Playwright**.
+Built and published **QA Cat Recorder**, a privacy-first Chrome extension for manual QA. Currently developing test automation skills with **Python, Pytest and Playwright**.
 
 ---
 
