@@ -25,6 +25,18 @@
 - GitHub Actions quality gate;
 - React + TypeScript frontend и Android offline MVP.
 
+### QA Cat Recorder — Chrome Extension
+
+Опубликованное расширение для Chrome, которое помогает manual QA записывать шаги воспроизведения и собирать технический evidence.
+
+- reproduction steps и screenshots;
+- Network / Console evidence;
+- черновики Bug Report, Test Case и Checklist;
+- privacy-first: данные хранятся локально;
+- опубликован в Chrome Web Store.
+
+[Установить QA Cat Recorder из Chrome Web Store](https://chromewebstore.google.com/detail/qa-cat-recorder/gmebiomncidkjmobalcjlpinpbbdlpmj?hl=ru)
+
 ### [API Testing / Postman](https://github.com/kitkotcat/api-testing-postman)
 
 Практика тестирования REST API в Postman: коллекции запросов, status codes, JSON, positive / negative scenarios и проверка ответов.
